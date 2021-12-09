@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.40, created on 2021-12-09 06:27:07
+/* Smarty version 3.1.40, created on 2021-12-09 05:56:48
   from 'C:\xampp\htdocs\mini_loja\view\index.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.40',
-  'unifunc' => 'content_61b193abe51ff9_41036693',
+  'unifunc' => 'content_61b18c90befae9_37061560',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'a5cf75b405ad8e4f3723a0e265526e3a3f0d2d8d' => 
     array (
       0 => 'C:\\xampp\\htdocs\\mini_loja\\view\\index.tpl',
-      1 => 1639027626,
+      1 => 1639025753,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_61b193abe51ff9_41036693 (Smarty_Internal_Template $_smarty_tpl) {
+function content_61b18c90befae9_37061560 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!DOCTYPE html>
 <html lang="en">
     <head>
@@ -28,7 +28,7 @@ function content_61b193abe51ff9_41036693 (Smarty_Internal_Template $_smarty_tpl)
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Mini loja - João</title>
+        <title>Shop Homepage - Start Bootstrap Template</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="<?php echo $_smarty_tpl->tpl_vars['GET_TEMA']->value;?>
 /tema/assets/favicon.ico" />

@@ -7,7 +7,10 @@ Rotas::get_pagina();
 
 //valor para o template
 
-$smarty->assign('NOME', 'João Luis Lourenço');
+//echo Rotas::get_SiteHome();
+
+//$smarty->assign('NOME', 'João Luis Lourenço');
+$smarty->assign('GET_TEMA', Rotas::get_SiteTema());
 
 
 $smarty->display('index.tpl');
